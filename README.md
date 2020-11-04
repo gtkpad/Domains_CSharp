@@ -26,3 +26,16 @@ dotnet add reference ../PaymentContext.Shared/PaymentContext.Shared.csproj
 cd ../PaymentContext.Tests
 dotnet add reference ../PaymentContext.Domain/PaymentContext.Domain.csproj
 dotnet add reference ../PaymentContext.Shared/PaymentContext.Shared.csproj
+
+
+
+
+
+cd PaymentContext.Shared   
+dotnet add package flunt 
+
+cd PaymentContext.Domain 
+dotnet add package flunt  
+
+cd PaymentContext.Domain 
+dotnet add package flunt

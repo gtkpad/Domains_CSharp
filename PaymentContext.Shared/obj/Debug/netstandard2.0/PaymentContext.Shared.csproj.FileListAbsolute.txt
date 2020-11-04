@@ -7,3 +7,12 @@
 /home/gabriel/CSharp/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.csproj.CoreCompileInputs.cache
 /home/gabriel/CSharp/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.dll
 /home/gabriel/CSharp/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.pdb
+/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Shared/bin/Debug/netstandard2.0/PaymentContext.Shared.deps.json
+/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Shared/bin/Debug/netstandard2.0/PaymentContext.Shared.dll
+/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Shared/bin/Debug/netstandard2.0/PaymentContext.Shared.pdb
+/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.csprojAssemblyReference.cache
+/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.AssemblyInfoInputs.cache
+/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.AssemblyInfo.cs
+/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.csproj.CoreCompileInputs.cache
+/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.dll
+/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.pdb
