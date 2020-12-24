@@ -195,3 +195,4 @@
 /home/gabriel/CSharp/Domains_CSharp/PaymentContext.Tests/obj/Debug/netcoreapp3.1/PaymentContext.Tests.pdb
 /home/gabriel/CSharp/Domains_CSharp/PaymentContext.Tests/obj/Debug/netcoreapp3.1/PaymentContext.Tests.genruntimeconfig.cache
 /home/gabriel/CSharp/Domains_CSharp/PaymentContext.Tests/bin/Debug/netcoreapp3.1/Flunt.dll
+/home/gabriel/CSharp/PaymentContext/PaymentContext.Tests/bin/Debug/netcoreapp3.1/Flunt.dll

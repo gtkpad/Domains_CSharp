@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Tests/PaymentContext.Tests.csproj": {}
+    "/home/gabriel/CSharp/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj": {}
   },
   "projects": {
-    "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Domain/PaymentContext.Domain.csproj": {
+    "/home/gabriel/CSharp/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Domain/PaymentContext.Domain.csproj",
+        "projectUniqueName": "/home/gabriel/CSharp/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
         "projectName": "PaymentContext.Domain",
-        "projectPath": "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Domain/PaymentContext.Domain.csproj",
+        "projectPath": "/home/gabriel/CSharp/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
         "packagesPath": "/home/gabriel/.nuget/packages/",
-        "outputPath": "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Domain/obj/",
+        "outputPath": "/home/gabriel/CSharp/PaymentContext/PaymentContext.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/gabriel/.nuget/NuGet/NuGet.Config"
@@ -25,8 +25,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Shared/PaymentContext.Shared.csproj": {
-                "projectPath": "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Shared/PaymentContext.Shared.csproj"
+              "/home/gabriel/CSharp/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj": {
+                "projectPath": "/home/gabriel/CSharp/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj"
               }
             }
           }
@@ -61,18 +61,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Shared/PaymentContext.Shared.csproj": {
+    "/home/gabriel/CSharp/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Shared/PaymentContext.Shared.csproj",
+        "projectUniqueName": "/home/gabriel/CSharp/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj",
         "projectName": "PaymentContext.Shared",
-        "projectPath": "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Shared/PaymentContext.Shared.csproj",
+        "projectPath": "/home/gabriel/CSharp/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj",
         "packagesPath": "/home/gabriel/.nuget/packages/",
-        "outputPath": "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Shared/obj/",
+        "outputPath": "/home/gabriel/CSharp/PaymentContext/PaymentContext.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/gabriel/.nuget/NuGet/NuGet.Config"
@@ -118,18 +118,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Tests/PaymentContext.Tests.csproj": {
+    "/home/gabriel/CSharp/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Tests/PaymentContext.Tests.csproj",
+        "projectUniqueName": "/home/gabriel/CSharp/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj",
         "projectName": "PaymentContext.Tests",
-        "projectPath": "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Tests/PaymentContext.Tests.csproj",
+        "projectPath": "/home/gabriel/CSharp/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj",
         "packagesPath": "/home/gabriel/.nuget/packages/",
-        "outputPath": "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Tests/obj/",
+        "outputPath": "/home/gabriel/CSharp/PaymentContext/PaymentContext.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/gabriel/.nuget/NuGet/NuGet.Config"
@@ -143,11 +143,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Domain/PaymentContext.Domain.csproj": {
-                "projectPath": "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Domain/PaymentContext.Domain.csproj"
+              "/home/gabriel/CSharp/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj": {
+                "projectPath": "/home/gabriel/CSharp/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj"
               },
-              "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Shared/PaymentContext.Shared.csproj": {
-                "projectPath": "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Shared/PaymentContext.Shared.csproj"
+              "/home/gabriel/CSharp/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj": {
+                "projectPath": "/home/gabriel/CSharp/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj"
               }
             }
           }
@@ -197,7 +197,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
         }
       }
     }

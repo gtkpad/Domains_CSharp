@@ -207,11 +207,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Shared/PaymentContext.Shared.csproj",
+      "projectUniqueName": "/home/gabriel/CSharp/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj",
       "projectName": "PaymentContext.Shared",
-      "projectPath": "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Shared/PaymentContext.Shared.csproj",
+      "projectPath": "/home/gabriel/CSharp/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj",
       "packagesPath": "/home/gabriel/.nuget/packages/",
-      "outputPath": "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Shared/obj/",
+      "outputPath": "/home/gabriel/CSharp/PaymentContext/PaymentContext.Shared/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/gabriel/.nuget/NuGet/NuGet.Config"
@@ -257,7 +257,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
       }
     }
   }

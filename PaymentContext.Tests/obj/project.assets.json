@@ -5782,11 +5782,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Tests/PaymentContext.Tests.csproj",
+      "projectUniqueName": "/home/gabriel/CSharp/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj",
       "projectName": "PaymentContext.Tests",
-      "projectPath": "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Tests/PaymentContext.Tests.csproj",
+      "projectPath": "/home/gabriel/CSharp/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj",
       "packagesPath": "/home/gabriel/.nuget/packages/",
-      "outputPath": "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Tests/obj/",
+      "outputPath": "/home/gabriel/CSharp/PaymentContext/PaymentContext.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/gabriel/.nuget/NuGet/NuGet.Config"
@@ -5800,11 +5800,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Domain/PaymentContext.Domain.csproj": {
-              "projectPath": "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Domain/PaymentContext.Domain.csproj"
+            "/home/gabriel/CSharp/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj": {
+              "projectPath": "/home/gabriel/CSharp/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj"
             },
-            "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Shared/PaymentContext.Shared.csproj": {
-              "projectPath": "/home/gabriel/CSharp/Domains_CSharp/PaymentContext.Shared/PaymentContext.Shared.csproj"
+            "/home/gabriel/CSharp/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj": {
+              "projectPath": "/home/gabriel/CSharp/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj"
             }
           }
         }
@@ -5854,7 +5854,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
       }
     }
   }
